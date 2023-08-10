@@ -1,0 +1,3 @@
+select  * from emplyees where name = "king"
+
+inser into table emplyees value ("don")
